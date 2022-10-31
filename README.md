@@ -1,7 +1,7 @@
 # Boss Machine 😈
 
 Front End and database provided by Codecademy. API and middleware is written by me.
-Original assignment details can be found [here](/ASSIGNMENT_DETAILS.md)
+Original assignment details can be found [here](/ASSIGNMENT_DETAILS.md).
 
 ## How To Use
 
