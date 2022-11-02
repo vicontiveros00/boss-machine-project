@@ -9,7 +9,7 @@ Clone this repo locally on your machine, install appropriate dependencies, then 
 
 ## Overview
 
-Here's an API I have built to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. Here I've created API routes using Express.js to manage the boss's 'minions', the boss's brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to the boss's busy schedule. Made with Express.js.
+Here's an API I have built to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. Here I've created API routes using Express.js to manage the boss's 'minions', the boss's brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to the boss's busy schedule.
 
 ### API Routes
 
@@ -39,7 +39,7 @@ For all `/api/minions` and `/api/ideas` routes, all POST or PUT requests will se
 
 There is no POST route for `api/meetings` as they are generated automaticaly by the server.
 
-#### Provided Schemas
+#### Schemas
 
 - Minion:
   - id: string
